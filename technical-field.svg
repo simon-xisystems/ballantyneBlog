@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1000" fill="none">
+<defs><pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" stroke="#a3b5a5" stroke-opacity=".09" stroke-width="1"/></pattern></defs>
+<rect width="1100" height="1000" fill="url(#grid)"/>
+<circle cx="650" cy="475" r="112" stroke="#b9a27c" stroke-opacity=".25" stroke-width="1" stroke-dasharray="3 12"/>
+<circle cx="650" cy="475" r="178" stroke="#b9a27c" stroke-opacity=".25" stroke-width="1" stroke-dasharray="3 12"/>
+<circle cx="650" cy="475" r="240" stroke="#b9a27c" stroke-opacity=".25" stroke-width="1" stroke-dasharray="none"/>
+<circle cx="650" cy="475" r="308" stroke="#b9a27c" stroke-opacity=".25" stroke-width="1" stroke-dasharray="3 12"/>
+<circle cx="650" cy="475" r="379" stroke="#b9a27c" stroke-opacity=".25" stroke-width="1" stroke-dasharray="3 12"/>
+<path d="M1038.0 475.0L1062.0 475.0" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M1031.5 577.2L1048.0 581.6" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M992.1 672.5L1006.8 681.0" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M924.4 749.4L941.3 766.3" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M847.5 817.1L856.0 831.8" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M752.2 856.5L756.6 873.0" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M650.0 863.0L650.0 887.0" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M547.8 856.5L543.4 873.0" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M452.5 817.1L444.0 831.8" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M375.6 749.4L358.7 766.3" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M307.9 672.5L293.2 681.0" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M268.5 577.2L252.0 581.6" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M262.0 475.0L238.0 475.0" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M268.5 372.8L252.0 368.4" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M307.9 277.5L293.2 269.0" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M375.6 200.6L358.7 183.7" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M452.5 132.9L444.0 118.2" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M547.8 93.5L543.4 77.0" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M650.0 87.0L650.0 63.0" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M752.2 93.5L756.6 77.0" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M847.5 132.9L856.0 118.2" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M924.4 200.6L941.3 183.7" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M992.1 277.5L1006.8 269.0" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M1031.5 372.8L1048.0 368.4" stroke="#c8aa7a" stroke-opacity=".35"/>
+<path d="M110 475H1070M650 45V925" stroke="#c8aa7a" stroke-opacity=".14" stroke-dasharray="5 9"/>
+<path d="M245 650L425 650L505 580L650 580L820 410L1040 410" stroke="#c8aa7a" stroke-opacity=".28"/>
+<path d="M260 230H410L510 330H660L760 230H1010" stroke="#92b4a6" stroke-opacity=".25"/>
+<path d="M380 825H520L625 720H920" stroke="#92b4a6" stroke-opacity=".2"/>
+<circle cx="245" cy="650" r="3" fill="#c8aa7a" fill-opacity=".5"/>
+<circle cx="425" cy="650" r="3" fill="#c8aa7a" fill-opacity=".5"/>
+<circle cx="505" cy="580" r="3" fill="#c8aa7a" fill-opacity=".5"/>
+<circle cx="820" cy="410" r="3" fill="#c8aa7a" fill-opacity=".5"/>
+<circle cx="1040" cy="410" r="3" fill="#c8aa7a" fill-opacity=".5"/>
+<circle cx="260" cy="230" r="3" fill="#c8aa7a" fill-opacity=".5"/>
+<circle cx="510" cy="330" r="3" fill="#c8aa7a" fill-opacity=".5"/>
+<circle cx="760" cy="230" r="3" fill="#c8aa7a" fill-opacity=".5"/>
+<circle cx="920" cy="825" r="3" fill="#c8aa7a" fill-opacity=".5"/>
+<path d="M635 475H665M650 460V490" stroke="#c8aa7a" stroke-opacity=".6"/>
+<circle cx="650" cy="475" r="10" stroke="#c8aa7a" stroke-opacity=".5"/>
+<g font-family="monospace" font-size="12" letter-spacing="2" fill="#c8aa7a" fill-opacity=".45"><text x="695" y="458">REFERENCE / 001</text><text x="720" y="856">SYSTEMS / SIGNAL / STRUCTURE</text><text x="180" y="188">DESIGN IS AN ITERATION</text></g>
+</svg>
